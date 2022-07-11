@@ -12,3 +12,7 @@ how to use:
 3. enter description of the blog
 4. enter blog text
 5. blog will be posted! (the bot will post an embed of what you just posted as confirmation)
+
+
+hugo:
+https://gohugo.io/
