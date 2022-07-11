@@ -1,5 +1,5 @@
 # DiscordBot-Hugo-Post
-discord bot to make new blog posts on hugo with a simple command. written in php
+discord bot to make new blog posts on hugo with a simple command. written in python
 
 how to setup:
 1. put your token in settings.py
